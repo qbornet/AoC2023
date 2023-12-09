@@ -1,2 +1,6 @@
 *.sw?
+/go.*
+/main.go
+/input
+/test
 local/
